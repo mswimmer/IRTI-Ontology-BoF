@@ -65,11 +65,13 @@ This project is inspired by the ongoing [TOSCA](http://www.mn.uio.no/ifi/english
 
 * IETF SACM Terminology, <https://datatracker.ietf.org/doc/draft-ietf-sacm-terminology/>
 
-## Useful conferences
+## Useful conferences and Journals
 
-http://dfrws.org
+* http://dfrws.org
 
-ACM WISC (part of SIGSAC)
+* ACM WISC (part of SIGSAC)
+
+* (Elsevier Digital Investigation)[https://www.journals.elsevier.com/digital-investigation]
 
 ### Use cases
 
